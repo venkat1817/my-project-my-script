@@ -1,0 +1,36 @@
+open thise url:
+--------------
+https://github.com/KUMAR-REDDY-BAVANASI/Some_Scripts/blob/main/GE%20Aviation%20Project.txt
+
+GE Aviation Project
+-------------------
+Positive train control 
+----------------------   PTC is a system of functional requirements for 
+monitoring and controlling train movements and is a type of train protection system.
+ptc (positive train control)  its a model worked on 2 apps
+
+
+1. ptc msg analyser  works on communication b/w
+
+locomative(train engine) it is a device like start stop msgs and station  
+
+2. ptc remote viewer
+
+Locomative end point ichi Connect kodithe CDU (cab display unit) like speedometer
+
+speed details
+
+
+Gangi Reddy ANNA:
+-------------------
+Ge is the Project Based company. im working for the locomative project in the ge 
+im supporting for the users whoever gets into the locomative and they 
+will get the registering the tickets and they will be using swipe cards 
+whenever they pay the money for the locomotive charge the swiping related billing related 
+the agents related so that apps im managed from the ge side
+
+Roles
+------
+Same app whatever they r using its been running on top of aws cloud
+if agents whenver they r booking the apps the total app is running on aws cloud
+we r running inside the vpc so im monitoring that deployment releses 
